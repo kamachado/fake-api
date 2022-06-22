@@ -3,19 +3,19 @@
     {
        "name":"Ajuga Reptans",
        "preco":20,
-       "img":"C:/commbox/web/casa-verde/public/products/product-01.png",
+       "img":"./products/product-01.png",
        "ordem":0
     },
     {
        "name":"Cordyline fruticosa",
        "preco":35,
-       "img":"C:/commbox/web/casa-verde/public/products/product-02.png",
+       "img":"./products/product-02.png",
        "ordem":3
     },
     {
        "name":"Crassula ovata",
        "preco":23.2,
-       "img":"C:/commbox/web/casa-verde/public/products/product-03.png",
+       "img":"./products/product-03.png",
        "ordem":2
     }
  ]
