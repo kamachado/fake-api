@@ -3,19 +3,19 @@
     {
        "name":"Ajuga Reptans",
        "preco":20,
-       "img":"./products/product-01.png",
+       "img":"01",
        "ordem":0
     },
     {
        "name":"Cordyline fruticosa",
        "preco":35,
-       "img":"./products/product-02.png",
+       "img":"02",
        "ordem":3
     },
     {
        "name":"Crassula ovata",
        "preco":23.2,
-       "img":"./products/product-03.png",
+       "img":"03",
        "ordem":2
     }
  ]
